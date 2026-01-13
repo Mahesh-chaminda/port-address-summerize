@@ -118,3 +118,6 @@ def finalize_excel():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+https://events.fortinet.com/apac-secops-demo-day?ref=PreElqemail1&utm_source=Email&utm_medium=Eloqua&utm_campaign=AI-DrivenSecOps-APAC-PAN-APAC-EN&utm_content=WC-secops-demoday-Jan22&utm_term=Email2
